@@ -1,6 +1,6 @@
 ## README
 
-[Demo](https://sleepy-island-61198.herokuapp.com/)
+[Demo](https://still-taiga-64406.herokuapp.com)
 
 This app based on Udemy tutorial - The Professional Ruby on Rails Developer with some additions/differences:
 * Rspec
